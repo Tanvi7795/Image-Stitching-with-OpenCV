@@ -35,5 +35,5 @@ Once we have the estimated Homography, we need to warp one of the images to a co
 ### Query Image 
 ![](sneakpeeks/panorama(query).jpg)
 
-### Panorama Image 
-![](sneakpeeks/panorama.jpg)
+### Panoramic Image 
+![](sneakpeeks/panorama(stitch).jpg)

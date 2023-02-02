@@ -11,10 +11,10 @@ Throughout this article, we go over some of the most famous Computer Vision tech
 * Homography estimation using RANSAC
 * Perspective warping
 
-#### Keypoing detection
+#### Keypoing detection: 
 Keypoints are found by calculating the difference of Gaussian blur of the image at different levels. Then those images are subtracted from each other resulting in the difference of images with different levels of Gaussian blurs. The resultant images are stacked upon each other to look for extreme points which are locally distinct, those are keypoints. 
 
-#### Local invariant descriptors 
+#### Local invariant descriptors :
 Descriptors are computed by looking at the neighborhood of the keypoint, breaking down the local neighborhood into small areas, and then computing the gradient in these small areas.
 
 #### Feature matching 

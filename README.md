@@ -3,7 +3,7 @@
 
 Image stitching or photo stitching is the process of combining multiple photographic images with overlapping fields of view to produce a segmented panorama image. It is important to note that both images need to share some common region.
 
-##Specification 
+## Specification 
 Throughout this article, we go over some of the most famous Computer Vision techniques. These include:
 * Keypoint detection
 * Local invariant descriptors (SIFT, SURF, etc)

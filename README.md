@@ -29,11 +29,11 @@ RANdom SAmple Consensus or RANSAC is an iterative algorithm to fit linear models
 Once we have the estimated Homography, we need to warp one of the images to a common plane. Here, we are going to apply a perspective transformation to one of the images. Basically, a perspective transform may combine one or more operations like rotation, scale, translation, or shear. The idea is to transform one of the images so that both images merge as one.
 
 ## Sneak Peeks 
-### Train Image 
+### Train Image (input image) 
 ![](sneakpeeks/panorama(train).jpg)
 
-### Query Image 
+### Query Image (input image)
 ![](sneakpeeks/panorama(query).jpg)
 
-### Panoramic Image 
+### Panoramic Image (output image)
 ![](sneakpeeks/panorama(stitch).jpg)
